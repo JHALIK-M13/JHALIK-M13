@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @JHALIK-M13
-- 👀 I’m interested in machine learning process and automating fundamental human tasks
+- 👀 I’m interested in machine learning process and automating fundamental tasks
 - 🔋 I’m currently learning Linux and Pyhon language
 - ⛽️🚀 I’m looking to collaborate on projects that incorporate creative ideas to genaerate solutions that can be a foundation for self sufficiency
 - 📫 How to reach me here!
